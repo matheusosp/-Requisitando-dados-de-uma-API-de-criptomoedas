@@ -1,6 +1,6 @@
 # Requisitando dados de uma API de criptomoedas
 Projeto Web utilizando a API Coin Market Cap.
-Requisição de uma API de Criptomoeda com JavaScript, manipulamdo APIs além de exibir essas informações em uma página web responsiva.
+Requisição de uma API de Criptomoeda com JavaScript, manipulando APIs além de exibir essas informações em uma página web responsiva.
 
 
 ### Requisitos e Documentações
