@@ -2,6 +2,7 @@
 Projeto Web utilizando a API Coin Market Cap.
 Requisição de uma API de Criptomoeda com JavaScript, manipulando APIs além de exibir essas informações em uma página web responsiva.
 
+![Foo](https://raw.githubusercontent.com/matheusosp/-Requisitando-dados-de-uma-API-de-criptomoedas/main/api-coinmarketcap.jpg)
 
 ### Requisitos e Documentações
 Gerar a API KEY no [Coin Market Cap - Portal do desenvolvedor](https://pro.coinmarketcap.com/account) <br>
